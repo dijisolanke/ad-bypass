@@ -12,9 +12,9 @@
   "action": {
     "default_title": "Bypass",
     "default_icon": {
-      "16": "./Image-by-brgfx-on-Freepik.png",
-      "48": "./Image-by-brgfx-on-Freepik.png",
-      "128": "./Image-by-brgfx-on-Freepik.png"
+      "16": "./bypass.png",
+      "48": "./bypass.png",
+      "128": "./bypass.png"
     }
   },
   "icons": {
