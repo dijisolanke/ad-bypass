@@ -12,9 +12,9 @@
   "action": {
     "default_title": "Bypass",
     "default_icon": {
-      "16": "./bypass.png",
-      "48": "./bypass.png",
-      "128": "./bypass.png"
+      "16": "./block.png",
+      "48": "./block.png",
+      "128": "./block.png"
     }
   },
   "icons": {
